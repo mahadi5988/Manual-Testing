@@ -1,0 +1,31 @@
+Test Case ID,Module,Title,Description,Preconditions,Test Steps,Expected Result,Actual Result,Status,Remarks
+TC_001,Login,Test scenario 1,Test description for scenario 1,Navigate to login page,Step-by-step action for test 1,Expected outcome for test 1,Actual outcome for test 1,Fail,Unexpected behavior or error
+TC_002,Login,Test scenario 2,Test description for scenario 2,User must be logged in,Step-by-step action for test 2,Expected outcome for test 2,Actual outcome for test 2,Pass,
+TC_003,Login,Test scenario 3,Test description for scenario 3,User must be logged in,Step-by-step action for test 3,Expected outcome for test 3,Actual outcome for test 3,Pass,
+TC_004,Login,Test scenario 4,Test description for scenario 4,User must be logged in,Step-by-step action for test 4,Expected outcome for test 4,Actual outcome for test 4,Fail,Unexpected behavior or error
+TC_005,Login,Test scenario 5,Test description for scenario 5,User must be logged in,Step-by-step action for test 5,Expected outcome for test 5,Actual outcome for test 5,Pass,
+TC_006,Admin,Test scenario 6,Test description for scenario 6,User must be logged in,Step-by-step action for test 6,Expected outcome for test 6,Actual outcome for test 6,Pass,
+TC_007,Admin,Test scenario 7,Test description for scenario 7,User must be logged in,Step-by-step action for test 7,Expected outcome for test 7,Actual outcome for test 7,Fail,Unexpected behavior or error
+TC_008,Admin,Test scenario 8,Test description for scenario 8,User must be logged in,Step-by-step action for test 8,Expected outcome for test 8,Actual outcome for test 8,Pass,
+TC_009,Admin,Test scenario 9,Test description for scenario 9,User must be logged in,Step-by-step action for test 9,Expected outcome for test 9,Actual outcome for test 9,Pass,
+TC_010,Admin,Test scenario 10,Test description for scenario 10,User must be logged in,Step-by-step action for test 10,Expected outcome for test 10,Actual outcome for test 10,Fail,Unexpected behavior or error
+TC_011,PIM,Test scenario 11,Test description for scenario 11,User must be logged in,Step-by-step action for test 11,Expected outcome for test 11,Actual outcome for test 11,Pass,
+TC_012,PIM,Test scenario 12,Test description for scenario 12,User must be logged in,Step-by-step action for test 12,Expected outcome for test 12,Actual outcome for test 12,Pass,
+TC_013,PIM,Test scenario 13,Test description for scenario 13,User must be logged in,Step-by-step action for test 13,Expected outcome for test 13,Actual outcome for test 13,Fail,Unexpected behavior or error
+TC_014,PIM,Test scenario 14,Test description for scenario 14,User must be logged in,Step-by-step action for test 14,Expected outcome for test 14,Actual outcome for test 14,Pass,
+TC_015,PIM,Test scenario 15,Test description for scenario 15,User must be logged in,Step-by-step action for test 15,Expected outcome for test 15,Actual outcome for test 15,Pass,
+TC_016,Leave,Test scenario 16,Test description for scenario 16,User must be logged in,Step-by-step action for test 16,Expected outcome for test 16,Actual outcome for test 16,Fail,Unexpected behavior or error
+TC_017,Leave,Test scenario 17,Test description for scenario 17,User must be logged in,Step-by-step action for test 17,Expected outcome for test 17,Actual outcome for test 17,Pass,
+TC_018,Leave,Test scenario 18,Test description for scenario 18,User must be logged in,Step-by-step action for test 18,Expected outcome for test 18,Actual outcome for test 18,Pass,
+TC_019,Leave,Test scenario 19,Test description for scenario 19,User must be logged in,Step-by-step action for test 19,Expected outcome for test 19,Actual outcome for test 19,Fail,Unexpected behavior or error
+TC_020,Leave,Test scenario 20,Test description for scenario 20,User must be logged in,Step-by-step action for test 20,Expected outcome for test 20,Actual outcome for test 20,Pass,
+TC_021,Dashboard,Test scenario 21,Test description for scenario 21,User must be logged in,Step-by-step action for test 21,Expected outcome for test 21,Actual outcome for test 21,Pass,
+TC_022,Dashboard,Test scenario 22,Test description for scenario 22,User must be logged in,Step-by-step action for test 22,Expected outcome for test 22,Actual outcome for test 22,Fail,Unexpected behavior or error
+TC_023,Dashboard,Test scenario 23,Test description for scenario 23,User must be logged in,Step-by-step action for test 23,Expected outcome for test 23,Actual outcome for test 23,Pass,
+TC_024,Dashboard,Test scenario 24,Test description for scenario 24,User must be logged in,Step-by-step action for test 24,Expected outcome for test 24,Actual outcome for test 24,Pass,
+TC_025,Dashboard,Test scenario 25,Test description for scenario 25,User must be logged in,Step-by-step action for test 25,Expected outcome for test 25,Actual outcome for test 25,Fail,Unexpected behavior or error
+TC_026,Dashboard,Test scenario 26,Test description for scenario 26,User must be logged in,Step-by-step action for test 26,Expected outcome for test 26,Actual outcome for test 26,Pass,
+TC_027,Dashboard,Test scenario 27,Test description for scenario 27,User must be logged in,Step-by-step action for test 27,Expected outcome for test 27,Actual outcome for test 27,Pass,
+TC_028,Dashboard,Test scenario 28,Test description for scenario 28,User must be logged in,Step-by-step action for test 28,Expected outcome for test 28,Actual outcome for test 28,Fail,Unexpected behavior or error
+TC_029,Dashboard,Test scenario 29,Test description for scenario 29,User must be logged in,Step-by-step action for test 29,Expected outcome for test 29,Actual outcome for test 29,Pass,
+TC_030,Dashboard,Test scenario 30,Test description for scenario 30,User must be logged in,Step-by-step action for test 30,Expected outcome for test 30,Actual outcome for test 30,Pass,
