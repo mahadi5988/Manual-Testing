@@ -1,0 +1,28 @@
+Bug ID,Title,Module,Description,Steps to Reproduce,Expected Result,Actual Result,Severity,Priority,Status,Reported By,Date
+BUG_001,Invalid login accepted,Login,System accepts invalid credentials,"1. Go to login page
+2. Enter wrong username and password
+3. Click Login",System should reject login attempt,System logs in with invalid credentials,Critical,High,Open,Mahadi,16/05/2025
+BUG_002,Password reset email not sent,Login,Password reset functionality does not send email,"1. Click on Forgot Password
+2. Enter valid email
+3. Submit request",Reset email should be received,No email received,High,High,Open,Mahadi,16/05/2025
+BUG_003,Admin user search not working,Admin,Searching for existing users returns no results,"1. Go to Admin > User Management
+2. Search for an existing user",User details should be displayed,No records found,Medium,High,Open,Mahadi,16/05/2025
+BUG_004,Role assignment fails,Admin,Assigning role to user does not save changes,"1. Go to Admin > User Management
+2. Assign role to user
+3. Save",Role should be assigned successfully,No changes saved,High,Medium,Open,Mahadi,16/05/2025
+BUG_005,Employee addition fails,PIM,Adding new employee throws error,"1. Go to PIM
+2. Click Add Employee
+3. Enter details and save",Employee should be added,System error shown,High,High,Open,Mahadi,16/05/2025
+BUG_006,Employee details update not saved,PIM,Updating employee profile does not reflect changes,"1. Go to PIM > Employee List
+2. Edit employee details
+3. Save",Details should be updated,Old details still displayed,Medium,Medium,Open,Mahadi,18/05/2025
+BUG_007,Leave application not submitting,Leave,Leave request form does not submit,"1. Go to Leave > Apply
+2. Fill in details
+3. Click Apply",Leave request should be submitted,Form does not respond,High,High,Open,Mahadi,18/05/2025
+BUG_008,Leave balance not updating,Leave,Leave balance remains unchanged after approval,"1. Apply leave
+2. Approve leave
+3. Check balance",Balance should be reduced,Balance unchanged,High,High,Open,Mahadi,18/05/2025
+BUG_009,Dashboard widgets not loading,Dashboard,Some widgets fail to load content,"1. Login
+2. Navigate to Dashboard",All widgets should load,Blank widgets displayed,Medium,Low,Open,Mahadi,18/05/2025
+BUG_010,Notification bell not showing alerts,Dashboard,No notifications visible even when pending actions exist,"1. Perform action that generates notification
+2. Check dashboard bell icon",Notification count should appear,No notifications shown,Low,Low,Open,Mahadi,18/05/2025
