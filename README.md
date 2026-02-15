@@ -39,7 +39,7 @@ Manual-Testing
 
 ## 🧾 Documents Included
 
-### 1️⃣ Test Plan
+###  Test Plan
 Contains:
 
 - Scope
@@ -49,10 +49,10 @@ Contains:
 - Schedule
 - Risks
 
-### 2️⃣ Test Scenarios
+### 2️ Test Scenarios
 High-level testing flows derived from requirements.
 
-### 3️⃣ Test Cases
+### 3️ Test Cases
 Detailed test steps including:
 
 - Preconditions
@@ -61,7 +61,7 @@ Detailed test steps including:
 - Actual results
 - Status (Pass/Fail)
 
-### 4️⃣ Bug Reports
+###  Bug Reports
 Defect logs with:
 
 - Bug ID
@@ -70,10 +70,10 @@ Defect logs with:
 - Screenshots
 - Status tracking
 
-### 5️⃣ RTM
+###  RTM
 Requirement-to-test-case mapping for coverage tracking.
 
-### 6️⃣ Test Summary Report
+###   Test Summary Report
 Final testing outcome including:
 
 - Execution statistics
@@ -83,7 +83,7 @@ Final testing outcome including:
 
 ---
 
-## ⚙️ Testing Types Covered
+## Testing Types Covered
 
 - Functional Testing
 - UI Testing
@@ -95,7 +95,7 @@ Final testing outcome including:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -108,7 +108,7 @@ Final testing outcome including:
 
 ---
 
-## ▶️ How to Use
+##  How to Use
 
 1. Download or clone the repository  
 2. Open Excel / document files  
@@ -118,7 +118,7 @@ Final testing outcome including:
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Understand SDLC & STLC processes  
 - Practice writing professional test cases  
@@ -128,11 +128,9 @@ Final testing outcome including:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Mehedi Hasan**  
 Manual & Automation Testing Learner  
 
----
 
-⭐ If you find this repository helpful, don’t forget to star it!
