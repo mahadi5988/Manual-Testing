@@ -104,7 +104,7 @@ Final testing outcome including:
 | Browser DevTools | UI inspection |
 | Snipping Tool | Screenshots |
 
-\* If used
+
 
 ---
 
