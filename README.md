@@ -1,4 +1,4 @@
-# 🧪 Manual Testing Project – Test Case Repository
+#  Manual Testing Project – Test Case Repository
 
 This repository contains **Manual Testing artifacts** created for practicing and demonstrating Software Quality Assurance (SQA) skills.
 
